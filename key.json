@@ -79,6 +79,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "ENZY.kjey": {
+      "hwid": "77E1AEAD2D50F301",
+      "expireDate": "2050-06-13",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }

@@ -72,6 +72,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "atmc123": {
+      "hwid": "C5624125BEF6745D",
+      "expireDate": "2026-05-21",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }

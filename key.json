@@ -58,6 +58,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "enzy": {
+      "hwid": "C5624125BEF6745D",
+      "expireDate": "2026-06-13",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
